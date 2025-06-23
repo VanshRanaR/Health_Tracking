@@ -79,7 +79,7 @@ Visit http://localhost:3000 in your browser.
 📤 Export prescriptions as PDF
 
 🙌 Credits
-Developed by [Your Name]
+Developed by Vansh Rana
 ✨ Inspired by modern healthcare needs for digital patient management.
 
 💖 Show Support
